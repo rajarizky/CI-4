@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=echo, initial-scale=1.0">
-    <title>Document</title>
+    <title>WEB TESTER</title>
 </head>
 
 <body>
